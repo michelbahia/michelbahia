@@ -1,6 +1,8 @@
 ### Hi there 👋
+![dormrm](https://user-images.githubusercontent.com/20802961/155582299-be8c2d71-8126-4ae6-9b49-74aae8bba515.gif)
+<p>I´m Michel and I work with development since 2014</p>
 
-
+<p>In my last project, I worked with Reactjs, React Native and Nodejs, yes I developed web and mobile applications. I have experienci with microservice and APIRest, cloud azure, CI/CD, scrum methodologies and clean code.</p>
 <!--
 **michelbahia/michelbahia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
